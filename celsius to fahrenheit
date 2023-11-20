@@ -1,0 +1,3 @@
+cel=10
+fah=(1.8*cel)+32
+print(fah)
