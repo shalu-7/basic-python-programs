@@ -1,0 +1,7 @@
+vowel=["a","e","i","o","u"]
+words="silent"
+count=0
+for i in words:
+    if i in vowel:
+        count+=1
+print(count)
