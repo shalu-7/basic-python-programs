@@ -1,4 +1,3 @@
-PYTHON PROGRAM TO REVERSE A NUMBER
 n=123
 rev=0
 while n>0:
