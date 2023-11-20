@@ -1,0 +1,7 @@
+a=2003
+if a%4==0:
+    print("leap year")
+elif a%100!=0 and a%400==0:
+    print("leap")
+else:
+    print("not leap year")
