@@ -1,0 +1,6 @@
+a=[12,34,45,64,2]
+b=a[0]
+for i in a:
+    if b<i:
+        b=i
+print(b)
