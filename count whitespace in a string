@@ -1,0 +1,2 @@
+a="p  yt h o n"
+print(a.count(" "))
