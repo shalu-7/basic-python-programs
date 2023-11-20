@@ -1,0 +1,12 @@
+PYTHON PROGRAM TO CHECK ARMSTRONG NUMBER
+n=153
+sum=0
+org=n
+while n>0:
+    a=n%10
+    sum=sum+a*a*a
+    n=n//10
+if org==sum:
+    print("armstrong")
+else:
+    print("not")
